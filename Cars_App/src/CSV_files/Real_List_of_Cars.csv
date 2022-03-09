@@ -1,0 +1,92 @@
+modelName,modelYear,weight,isNew
+Toyota Supra 2 Door Coupe,2020,3.397,true
+Kia Telluride SX 4 Door AWD,2020,4.482,true
+Subaru Outback Ltd 4 Door AWD,2020,3.730,true
+Chevy Silverado LT Trail Boss 4 Door Crew Cab,2020,5.105,false
+Honda Pilot Elite 4 Door AWD,2020,4.319,false
+Kia Soul GT-Line 4 Door Wagon,2020,2.844,true
+Ford Escape SE 4 Door,2020,3.299,false
+Lexus LS 500 4 Door Sedan,2020,4.707,false
+Toyota Supra 3.0 2 Door Coupe,2020,3.397,false
+Buick Regal TourX 4 Door Wagon AWD,2020,3.708,true
+Ford Fusion S 4 Door Sedan,2019,3.472,true
+Nissan Altima 2.5 SR 4 Door Sedan,2019,3.290,true
+Jeep Grand Cherokee Laredo 4 Door 4WD,2019,4.677,true
+Honda Accord LX 4 Door Sedan,2019,3.131,false
+Nissan Rogue SV 4 Door AWD,2019,3.614,false
+Toyota RAV4 LE 4 Door,2019,3.370,false
+Ford F150 XL 4 Door SuperCrew 4WD,2019,4.769,false
+Toyota Highlander XLE 4 Door,2019,4.310,false
+Lincoln MKC Reserve 4 Door,2019,3.811,true
+Buick Envision Essence 4 Door,2019,3.755,true
+Toyota Camry LE 4 Door Sedan,2018,3.296,true
+Honda Civic LX 4 Door Sedan,2018,2.751,true
+Ford Escape SE 4 Door,2018,3.526,false
+Jeep Compass Ltd 4 Door 4WD,2018,3.327,false
+Subaru Forester 2.5i Premium 4 Door AWD,2018,3.422,true
+Hyundai Elantra SE 4 Door Sedan,2018,2.811,true
+GMC Sierra Denali 4 Door Crew Cab 4WD,2018,5.414,true
+Toyota Highlander XLE 4 Door Sedan,2018,4.310,true
+Chevrolet Equinox LS 4 Door Sedan,2018,3.274,true
+Nissan Sentra SV 4 Door Sedan,2018,2.877,false
+Mercedes Benz SLC Roadster,2017,3.541,false
+Chevrolet Silverado Truck,2017,4.979,false
+Lexus RX 450h AWD SUV,2017,4.740,false
+Jeep Wrangler 4x4,2017,3.941,false
+Toyota Highlander Hybrid AWD,2017,4.398,false
+Honda Odyssey Mini-Van,2017,4.470,true
+Hyundai Accent SE Hatchback,2017,2.553,true
+Subaru Crosstrek AWD Crossover,2017,3.109,true
+Lincoln Continental AWD Sedan,2017,4.396,true
+Toyota Tacoma Pickup Double Cab,2017,4.230,true
+Buick Envision AWD Crossover,2016,4.047,true
+Nissan Leaf All Electric,2016,3.256,false
+Ford F-250 Super Duty Crew Cab,2016,6.547,false
+Hyundai Equus Sedan,2016,4.553,true
+Toyota RAV4 Hybrid AWD,2016,3.950,false
+Kia Sorento AWD SUV,2016,4.004,true
+Chrysler 300 Platinum Sedan,2016,4.029,true
+Chevrolet Malibu Limited Sedan,2016,3.393,false
+Audi A6,2015,3.540,true
+BMW 3 Series Sedan,2015,3.295,true
+Lexus LS 460 Sedan,2015,4.233,false
+Mustang EcoBoost Fastback,2015,3.532,true
+Fiat 500 Abarth Hatchback,2015,2.512,true
+Tesla Model S,2015,4.646,true
+Mercedes Benz M Class AWD SUV,2015,4.742,true
+Subaru Impreza,2014,3.208,true
+BMW 740i Sedan,2014,4.344,false
+Buick LaCrosse,2014,3.756,false
+Buick Verano,2014,3.300,false
+Kia Cadenza,2014,3.668,true
+BMW 5-Series,2014,3.814,true
+Nissan Versa,2014,2.354,true
+Porsche Panamera,2014,3.968,false
+Toyota Matrix,2013,2.888,true
+Chevrolet Equinox LS,2013,3.777,false
+Chevrolet Corvette,2013,3.208,true
+Chevrolet Malibu,2013,3.393,false
+BMW 740i Sedan,2013,4.344,true
+Dodge Durango,2013,4.756,false
+Hyundai Accent,2013,2.396,true
+Hyundai Elantra,2013,2.701,true
+Buick Regal,2013,3.600,true
+Kia Optima Hybrid,2013,3.496,false
+Audi A6,2013,3.682,true
+Ford Focus,2013,2.935,true
+Ford Taurus,2013,4.037,true
+Mazda MAZDA6,2013,3.323,true
+Toyota Camry,2012,3.190,false
+Toyota Prius,2012,3.042,true
+Toyota Avalon,2012,3.572,false
+Chrysler Town and Country,2012,4.652,false
+Subaru Outback,2012,3.495,true
+Honda Civic LX Coupe,2012,2.617,false
+Cadillac Escalade EXT,2012,5.949,true
+MINI Cooper Hatchback,2012,2.535,false
+Scion xB,2012,3.084,false
+Scion TC,2012,3.102,false
+Lexus IS-F,2012,3.780,false
+Nissan Cube,2012,2.768,true
+Nissan Maxima,2012,3.540,false
+Smart Fortwo,2012,1.808,false

@@ -1,0 +1,94 @@
+https://cars.lovetoknow.com/List_of_Car_Weights
+
+Model	                        Curb Weight
+2020 Toyota Supra 2 Door Coupe	3,397 pounds
+2020 Kia Telluride SX 4 Door AWD	4,482 pounds
+2020 Subaru Outback Ltd 4 Door AWD	3,730 pounds
+2020 Chevy Silverado LT Trail Boss 4 Door Crew Cab	5,105 pounds
+2020 Honda Pilot Elite 4 Door AWD	4,319 pounds
+2020 Kia Soul GT-Line 4 Door Wagon	2,844 pounds
+2020 Ford Escape SE 4 Door	3,299 pounds
+2020 Lexus LS 500 4 Door Sedan	4,707 pounds
+2020 Toyota Supra 3.0 2 Door Coupe	3,397 pounds
+2020 Buick Regal TourX 4 Door Wagon AWD	3,708 pounds
+2019 Ford Fusion S 4 Door Sedan	3,472 pounds
+2019 Nissan Altima 2.5 SR 4 Door Sedan	3,290 pounds
+2019 Jeep Grand Cherokee Laredo 4 Door 4WD	4,677 pounds
+2019 Honda Accord LX 4 Door Sedan	3,131 pounds
+2019 Nissan Rogue SV 4 Door AWD	3,614 pounds
+2019 Toyota RAV4 LE 4 Door	3,370 pounds
+2019 Ford F150 XL 4 Door SuperCrew 4WD	4,769 pounds
+2019 Toyota Highlander XLE 4 Door	4,310 pounds
+2019 Lincoln MKC Reserve 4 Door	3,811 pounds
+2019 Buick Envision Essence 4 Door	3,755 pounds
+2018 Toyota Camry LE 4 Door Sedan	3,296 pounds
+2018 Honda Civic LX 4 Door Sedan	2,751 pounds
+2018 Ford Escape SE 4 Door	3,526 pounds
+2018 Jeep Compass Ltd 4 Door 4WD	3,327 pounds
+2018 Subaru Forester 2.5i Premium 4 Door AWD	3,422 pounds
+2018 Hyundai Elantra SE 4 Door Sedan	2,811 pounds
+2018 GMC Sierra Denali 4 Door Crew Cab 4WD	5,414 pounds
+2018 Toyota Highlander XLE 4 Door Sedan	4,310 pounds
+2018 Chevrolet Equinox LS 4 Door Sedan	3,274 pounds
+2018 Nissan Sentra SV 4 Door Sedan	2,877 pounds
+2017 Mercedes Benz SLC Roadster	3,541 pounds
+2017 Chevrolet Silverado Truck	4,979 pounds
+2017 Lexus RX 450h AWD SUV	4,740 pounds
+2017 Jeep Wrangler 4x4	3,941 pounds
+2017 Toyota Highlander Hybrid AWD	4,398 pounds
+2017 Honda Odyssey Mini-Van	4,470 pounds
+2017 Hyundai Accent SE Hatchback	2,553 pounds
+2017 Subaru Crosstrek AWD Crossover	3,109 pounds
+2017 Lincoln Continental AWD Sedan	4,396 pounds
+2017 Toyota Tacoma Pickup Double Cab	4,230 pounds
+2016 Buick Envision AWD Crossover	4,047 pounds
+2016 Nissan Leaf All Electric	3,256 pounds
+2016 Ford F-250 Super Duty Crew Cab	6,547 pounds
+2016 Hyundai Equus Sedan	4,553 pounds
+2016 Toyota RAV4 Hybrid AWD	3,950 pounds
+2016 Kia Sorento AWD SUV	4,004 pounds
+2016 Chrysler 300 Platinum Sedan	4,029 pounds
+2016 Chevrolet Malibu Limited Sedan	3,393 pounds
+2015 Audi A6	3,540 pounds
+2015 BMW 3 Series Sedan	3,295 pounds
+2015 Lexus LS 460 Sedan	4,233 pounds
+2015 Mustang EcoBoost Fastback	3,532 pounds
+2015 Fiat 500 Abarth Hatchback	2,512 pounds
+2015 Tesla Model S	4,646 pounds
+2015 Mercedes Benz M Class AWD SUV	4,742 pounds
+2014 Subaru Impreza	3,208 pounds
+2013 BMW 740i Sedan	4,344 pounds
+2014 Buick LaCrosse	3,756 pounds
+2014 Buick Verano	3,300 pounds
+2014 Kia Cadenza	3,668 pounds
+2014 BMW 5-Series	3,814 pounds
+2014 Nissan Versa	2,354 pounds
+2014 Porsche Panamera	3,968 pounds
+2013 Toyota Matrix	2,888 pounds
+2013 Chevrolet Equinox LS	3,777 pounds
+2013 Chevrolet Corvette	3,208 pounds
+2013 Chevrolet Malibu	3,393 pounds
+2013 BMW 740i Sedan	4,344 pounds
+2013 Dodge Durango	4,756 pounds
+2013 Hyundai Accent	2,396 pounds
+2013 Hyundai Elantra	2,701 pounds
+2013 Buick Regal	3,600 pounds
+2013 Kia Optima Hybrid	3,496 pounds
+2013 Audi A6	3,682 pounds
+2013 Ford Focus	2,935 pounds
+2013 Ford Taurus	4,037 pounds
+2013 Mazda MAZDA6	3,323 pounds
+2012 Toyota Camry	3,190 pounds
+2012 Toyota Prius	3,042 pounds
+2012 Toyota Avalon	3,572 pounds
+2012 Chrysler Town and Country	4,652 pounds
+2012 Subaru Outback	3,495 pounds
+2012 Honda Civic LX Coupe	2,617 pounds
+2012 Cadillac Escalade EXT	5,949 pounds
+2012 MINI Cooper Hatchback	2.535 pounds
+2012 Scion xB	3,084 pounds
+2012 Scion TC	3,102 pounds
+2012 Lexus IS-F	3,780 pounds
+2012 Nissan Cube	2,768 pounds
+2012 Nissan Maxima	3,540 pounds
+2012 Smart Fortwo	1,808 pounds
